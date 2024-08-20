@@ -10,3 +10,5 @@ console.log(detroitPopulation)
 
 let calculation = detroitPopulation * 3
 console.log(calculation)
+
+let javaScriptIsCool = true
