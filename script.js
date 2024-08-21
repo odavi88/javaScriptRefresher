@@ -12,3 +12,5 @@ let calculation = detroitPopulation * 3
 console.log(calculation)
 
 let javaScriptIsCool = true
+
+let colors = ["blue", "red", "green", "yellow", "orange", "purple", "pink"]
